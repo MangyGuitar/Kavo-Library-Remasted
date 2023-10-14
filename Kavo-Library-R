@@ -127,11 +127,11 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(110, 98, 195)
     },
     ChatGPT = {
-    SchemeColor = Color3.fromRGB(0, 51, 102), -- Azul oscuro
-    Background = Color3.fromRGB(0, 0, 0), -- Negro
-    Header = Color3.fromRGB(25, 25, 112), -- Azul medianoche
-    TextColor = Color3.fromRGB(255, 255, 255), -- Blanco
-    ElementColor = Color3.fromRGB(255, 255, 0) -- Amarillo brillante
+        SchemeColor = Color3.fromRGB(0, 51, 102), -- Azul oscuro
+        Background = Color3.fromRGB(0, 0, 0), -- Negro
+        Header = Color3.fromRGB(25, 25, 112), -- Azul medianoche
+        TextColor = Color3.fromRGB(255, 255, 255), -- Blanco
+        ElementColor = Color3.fromRGB(255, 255, 0) -- Amarillo brillante
     }
 }
 local oldTheme = ""
